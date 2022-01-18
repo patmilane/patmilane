@@ -1,8 +1,8 @@
 <h3 align="center">♡ Ola! Bem vindo ao meu repositório GitHub! ♡</h3>
 <div align="center">
   <a href="https://github.com/patmilane">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=patriciamilane&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patriciamilane&layout=compact&langs_count=7&theme=buefy"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=patmilane&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patmilane&layout=compact&langs_count=7&theme=buefy"/>
 </div>
   
   <h3 align="center"> Tecnologias em estudo: </h3>
