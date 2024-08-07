@@ -1,4 +1,4 @@
-<h3 align="center"> Ola! GITHUB OFICIAL https://github.com/patriciamilane </h3>
+<h3 align="center"> Ola! GITHUB PROFISSIONAL:  https://github.com/patriciamilane </h3>
 <div align="center">
   <a href="https://github.com/patmilane">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patmilane&layout=compact&langs_count=7&theme=buefy"/>
