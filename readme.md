@@ -1,10 +1,8 @@
-<h3 align="center"> Ola! GITHUB PROFISSIONAL:  https://github.com/patriciamilane </h3>
+<h3 align="center"> Ola!
 <div align="center">
   <a href="https://github.com/patmilane">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patmilane&layout=compact&langs_count=7&theme=buefy"/>
 </div>
   
-  <h3 align="center"> Em estudo </h3>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
   <img align="center" alt="react" src="https://img.shields.io/badge/React-007ACC?style=for-the-badge&logo=react&logoColor=white">
